@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+<email>
+<to>ravi</to>
+<from>knr</from>
+<heading>Hello<</heading>
+<body>
+hello buddy 
+</body>
+</email>
+</emails>
